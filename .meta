@@ -1,4 +1,7 @@
 {
   "defaultBranch": "main",
-  "projects": {}
+  "projects": {
+    "modules/a": "git@github.com:patrickleet/migrate-test-a.git",
+    "modules/b": "git@github.com:patrickleet/migrate-test-b.git"
+  }
 }
